@@ -1,0 +1,11 @@
+yes sir complete fir git and github project
+first commond git init 
+git remote add origin master link url
+git status
+git add .
+git commit -m "chnage the html css"
+git status 
+git log 
+git push -u origin master
+git pull origin master
+git clone url in paste in repostory
